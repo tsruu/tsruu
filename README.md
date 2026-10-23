@@ -20,16 +20,22 @@ Currently working on temporal consistency in agentic LLMs and on multi-agent sys
 An automated alpha-search pipeline for the Trexquant alpha competition: genetic-programming search over signal expressions, then verification, de-correlation and blending before submission. At the time, it got me ranked **1st globally**.
 
 #### [claude-cost-bar](https://github.com/tsruu/claude-cost-bar)
-A little Claude Code mod Claude I made that shows live spend, per-model costs, cache state and context usage above the prompt *(particularly useful for me, because I routed different models through my Claude Code via OpenCodex (to which I am a contibutor), helped me track how quickly I was blowing through my Azure credits, and made me realise how expensive Astra on long context can be)*.
+A little Claude Code mod I made that shows live spend, per-model costs, cache state and context usage above the prompt *(particularly useful for me, because I routed different models through my Claude Code via [OpenCodex](https://github.com/lidge-jun/opencodex), which I contribute to; it helped me track how quickly I was blowing through my Azure credits, and made me realise how expensive Astra on long context can be)*.
 
 #### [charCNN-hangman](https://github.com/tsruu/charCNN-hangman)
-A custom model architechture I built to play Hangman that uses character level CNNs. It beats BERT-based baselines by **26%**, winning about **70%** of games.
+A custom model architecture I built to play Hangman that uses character-level CNNs. It beats BERT-based baselines by **26%**, winning about **70%** of games.
 
 #### [CAD_GPT2](https://github.com/tsruu/CAD_GPT2)
 A practice research-paper implementation: context-aware decoding from [Shi et al. (2023)](https://arxiv.org/abs/2305.14739), implemented for GPT-2 so it sticks to the given context and hallucinates less.
 
 #### [safe-offline-rl](https://github.com/tsruu/safe-offline-rl)
-Safe and offline RL experiments from my course project for **AIL841: Advanced Reinforcement Learning**, taught by Prof. Raunak Bhattacharya.
+Safe and data-efficient RL: I implemented PPO-Lagrangian from scratch to study reward–safety trade-offs in constrained control, and compared how offline RL methods (IQL, TD3+BC, CQL) scale with data. *(Course project for AIL841: Advanced Reinforcement Learning.)*
+
+---
+
+### Open source
+
+- Contributor to [**opencodex**](https://github.com/lidge-jun/opencodex): added an opt-in minimum output-token budget for Azure models ([#7028](https://github.com/lidge-jun/opencodex/pull/7028)).
 
 ---
 
