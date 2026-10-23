@@ -3,7 +3,7 @@
 ## Hi, I'm Trishan 👋
 
 I'm an Electrical Engineering undergrad at **IIT Delhi**, and I'm very interested in LLMs, agentic systems and AI safety.<br>
-Currently working on temporal consistency in agentic LLMs and on multi-agent systems for long-horizon tasks, with Prof. Tanmoy Chakraborty.
+Currently working on temporal consistency in agentic LLMs and on multi-agent systems for long-horizon tasks.
 
 [![Website](https://img.shields.io/badge/Website-24292f?style=for-the-badge&logo=githubpages&logoColor=white)](https://tsruu.github.io)
 [![Scholar](https://img.shields.io/badge/Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=nlr92QMAAAAJ)
