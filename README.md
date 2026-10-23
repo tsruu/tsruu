@@ -14,21 +14,21 @@ Currently working on temporal consistency in agentic LLMs and on multi-agent sys
 
 ---
 
-### 🛠️ Some stuff I've built
+### Some stuff I've built
 
-#### 📈 [trex-alpha-pipeline](https://github.com/tsruu/trex-alpha-pipeline)
+#### [trex-alpha-pipeline](https://github.com/tsruu/trex-alpha-pipeline)
 An automated alpha-search pipeline for the Trexquant alpha competition: genetic-programming search over signal expressions, then verification, de-correlation and blending before submission. At the time, it got me ranked **1st globally**.
 
-#### 💸 [claude-cost-bar](https://github.com/tsruu/claude-cost-bar)
+#### [claude-cost-bar](https://github.com/tsruu/claude-cost-bar)
 A little Claude Code mod I designed that shows live spend, per-model costs, cache state and context usage above the prompt *(particularly useful because I route different models, Claude and GPT, through my Claude Code, and switching models can quietly blow the cache)*.
 
-#### 🔤 [charCNN-hangman](https://github.com/tsruu/charCNN-hangman)
+#### [charCNN-hangman](https://github.com/tsruu/charCNN-hangman)
 A character-level CNN I built that plays Hangman. It beats BERT-based baselines by **26%**, winning about **70%** of games.
 
-#### 📄 [CAD_GPT2](https://github.com/tsruu/CAD_GPT2)
+#### [CAD_GPT2](https://github.com/tsruu/CAD_GPT2)
 A practice research-paper implementation: context-aware decoding from [Shi et al. (2023)](https://arxiv.org/abs/2305.14739), implemented for GPT-2 so it sticks to the given context and hallucinates less.
 
-#### 🤖 [safe-offline-rl](https://github.com/tsruu/safe-offline-rl)
+#### [safe-offline-rl](https://github.com/tsruu/safe-offline-rl)
 Safe and offline RL experiments from my course project for **AIL841: Advanced Reinforcement Learning**, taught by Prof. Raunak Bhattacharya.
 
 ---
