@@ -1,15 +1,40 @@
-### Hi, I'm Trishan 👋
+<div align="center">
 
-I'm an Electrical Engineering undergrad at IIT Delhi. I work on reasoning and reliability in LLM agents, reinforcement learning for language models, and efficient multimodal retrieval.
+## Hi, I'm Trishan 👋
 
-[Website](https://tsruu.github.io) · [Scholar](https://scholar.google.com/citations?hl=en&user=nlr92QMAAAAJ) · [LinkedIn](https://www.linkedin.com/in/trishan-singha-roy-8b546a32a/) · [Email](mailto:trishan.singharoy@gmail.com)
+I'm an Electrical Engineering undergrad at **IIT Delhi**.<br>
+I work on reasoning and reliability in LLM agents, reinforcement learning for language models, and efficient multimodal retrieval.
 
-#### Some stuff I've built
+[![Website](https://img.shields.io/badge/Website-24292f?style=for-the-badge&logo=githubpages&logoColor=white)](https://tsruu.github.io)
+[![Scholar](https://img.shields.io/badge/Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=nlr92QMAAAAJ)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTIwLjQ1IDIwLjQ1aC0zLjU1di01LjU3YzAtMS4zMy0uMDMtMy4wNC0xLjg1LTMuMDQtMS44NSAwLTIuMTQgMS40NS0yLjE0IDIuOTR2NS42N0g5LjM1VjloMy40MXYxLjU2aC4wNWMuNDgtLjkgMS42My0xLjg1IDMuMzYtMS44NSAzLjYgMCA0LjI3IDIuMzcgNC4yNyA1LjQ1djYuMjl6TTUuMzQgNy40M2EyLjA2IDIuMDYgMCAxIDEgMC00LjEyIDIuMDYgMi4wNiAwIDAgMSAwIDQuMTJ6TTcuMTIgMjAuNDVIMy41NlY5aDMuNTZ2MTEuNDV6TTIyLjIyIDBIMS43N0MuNzkgMCAwIC43NyAwIDEuNzN2MjAuNTRDMCAyMy4yMy43OSAyNCAxLjc3IDI0aDIwLjQ1QzIzLjIgMjQgMjQgMjMuMjMgMjQgMjIuMjdWMS43M0MyNCAuNzcgMjMuMiAwIDIyLjIyIDB6Ii8+PC9zdmc+)](https://www.linkedin.com/in/trishan-singha-roy-8b546a32a/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:trishan.singharoy@gmail.com)
 
-- [**trex-alpha-pipeline**](https://github.com/tsruu/trex-alpha-pipeline): An automated alpha-search pipeline for the Trexquant alpha competition: a genetic-programming search over signal expressions, then verification, de-correlation and blending before submission. It got me 2nd place in the competition.
-- [**claude-cost-bar**](https://github.com/tsruu/claude-cost-bar): A little Claude Code mod I designed that shows live spend, per-model costs, cache state and context usage above the prompt (particularly useful because I route different models, Claude and GPT, through my Claude Code, and switching models can quietly blow the cache).
-- [**charCNN-hangman**](https://github.com/tsruu/charCNN-hangman): I built a character-level CNN that plays Hangman. It beats BERT-based baselines by 26%, winning about 70% of games.
-- [**CAD_GPT2**](https://github.com/tsruu/CAD_GPT2): A practice research-paper implementation: context-aware decoding from [Shi et al. (2023)](https://arxiv.org/abs/2305.14739), which I implemented for GPT-2 to make it stick to the given context and hallucinate less.
-- [**safe-offline-rl**](https://github.com/tsruu/safe-offline-rl): Safe and data-efficient RL: I implemented PPO-Lagrangian from scratch and studied how offline RL methods (IQL, TD3+BC, CQL) scale with data.
+</div>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![vLLM](https://img.shields.io/badge/vLLM-30A2FF?style=flat-square) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+---
+
+### 🛠️ Some stuff I've built
+
+#### 📈 [trex-alpha-pipeline](https://github.com/tsruu/trex-alpha-pipeline)
+An automated alpha-search pipeline for the Trexquant alpha competition: genetic-programming search over signal expressions, then verification, de-correlation and blending before submission. It got me **2nd place** in the competition, and at the time it ranked **1st globally**.
+
+#### 💸 [claude-cost-bar](https://github.com/tsruu/claude-cost-bar)
+A little Claude Code mod I designed that shows live spend, per-model costs, cache state and context usage above the prompt *(particularly useful because I route different models, Claude and GPT, through my Claude Code, and switching models can quietly blow the cache)*.
+
+#### 🔤 [charCNN-hangman](https://github.com/tsruu/charCNN-hangman)
+A character-level CNN I built that plays Hangman. It beats BERT-based baselines by **26%**, winning about **70%** of games.
+
+#### 📄 [CAD_GPT2](https://github.com/tsruu/CAD_GPT2)
+A practice research-paper implementation: context-aware decoding from [Shi et al. (2023)](https://arxiv.org/abs/2305.14739), implemented for GPT-2 so it sticks to the given context and hallucinates less.
+
+#### 🤖 [safe-offline-rl](https://github.com/tsruu/safe-offline-rl)
+Safe and offline RL experiments from my course project for **AIL841: Advanced Reinforcement Learning**, taught by Prof. Raunak Bhattacharya.
+
+---
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,cpp,docker,linux,git&theme=dark" alt="Python, PyTorch, C++, Docker, Linux, Git">
+
+</div>
