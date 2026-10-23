@@ -2,7 +2,7 @@
 
 ## Hi, I'm Trishan 👋
 
-I'm a final-year undergrad at **IIT Delhi**, and I'm very interested in LLMs, agentic systems and AI safety.<br>
+I'm a final-year undergrad at **IIT Delhi**, and I'm interested in LLMs, agentic systems and AI safety.<br>
 Currently working on temporal consistency in agentic LLMs and on multi-agent collaboration for long-horizon tasks.
 
 [![Website](https://img.shields.io/badge/Website-24292f?style=for-the-badge&logo=githubpages&logoColor=white)](https://tsruu.github.io)
