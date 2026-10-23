@@ -20,7 +20,7 @@ Currently working on temporal consistency in agentic LLMs and on multi-agent sys
 An automated alpha-search pipeline for the Trexquant alpha competition: genetic-programming search over signal expressions, then verification, de-correlation and blending before submission. At the time, it got me ranked **1st globally**.
 
 #### [claude-cost-bar](https://github.com/tsruu/claude-cost-bar)
-A little Claude Code mod I made that shows live spend, per-model costs, cache state and context usage above the prompt *(particularly useful for me, because I routed different models through my Claude Code via [OpenCodex](https://github.com/lidge-jun/opencodex), which I contribute to; it helped me track how quickly I was blowing through my Azure credits, and made me realise how expensive Astra on long context can be)*.
+A little Claude Code mod I made that shows live spend, per-model costs, cache state and context usage above the prompt *(particularly useful for me, because I routed different models through my Claude Code via [OpenCodex](https://github.com/lidge-jun/opencodex); it helped me track how quickly I was blowing through my Azure credits, and made me realise how expensive Astra on long context can be)*.
 
 #### [charCNN-hangman](https://github.com/tsruu/charCNN-hangman)
 A custom model architecture I built to play Hangman that uses character-level CNNs. It beats BERT-based baselines by **26%**, winning about **70%** of games.
