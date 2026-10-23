@@ -1,6 +1,6 @@
 <div align="center">
 
-## Hi, I'm Trishan 👋
+## Hi, I'm Trishan
 
 I'm in the final year of my B.Tech in Electrical Engineering at **IIT Delhi**, interested in LLMs, agentic systems and AI safety.<br>
 Currently working on temporal consistency in agentic LLMs and on multi-agent collaboration for long-horizon tasks.
