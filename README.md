@@ -17,7 +17,7 @@ Currently working on temporal consistency in agentic LLMs and on multi-agent sys
 ### 🛠️ Some stuff I've built
 
 #### 📈 [trex-alpha-pipeline](https://github.com/tsruu/trex-alpha-pipeline)
-An automated alpha-search pipeline for the Trexquant alpha competition: genetic-programming search over signal expressions, then verification, de-correlation and blending before submission. It got me **2nd place** in the competition, and at the time it ranked **1st globally**.
+An automated alpha-search pipeline for the Trexquant alpha competition: genetic-programming search over signal expressions, then verification, de-correlation and blending before submission. At the time, it got me ranked **1st globally**.
 
 #### 💸 [claude-cost-bar](https://github.com/tsruu/claude-cost-bar)
 A little Claude Code mod I designed that shows live spend, per-model costs, cache state and context usage above the prompt *(particularly useful because I route different models, Claude and GPT, through my Claude Code, and switching models can quietly blow the cache)*.
